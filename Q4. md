@@ -1,0 +1,11 @@
+##Modifique o terceiro elemento de um vetor para o valor 100.
+
+programa {
+  funcao inicio() {
+  //Modifique o terceiro elemento de um vetor para o valor 100.
+    inteiro vetor[4]   
+    vetor[2] =100
+    escreva(vetor[2])
+    
+  }
+}
